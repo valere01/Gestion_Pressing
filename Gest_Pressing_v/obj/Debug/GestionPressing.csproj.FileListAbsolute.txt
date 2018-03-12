@@ -1,0 +1,51 @@
+C:\Users\lenovo ideapad 100\Documents\Visual Studio 2015\Projects\essais\GestionPressing\GestionPressing\bin\Debug\GestionPressing.exe.config
+C:\Users\lenovo ideapad 100\Documents\Visual Studio 2015\Projects\essais\GestionPressing\GestionPressing\bin\Debug\GestionPressing.exe
+C:\Users\lenovo ideapad 100\Documents\Visual Studio 2015\Projects\essais\GestionPressing\GestionPressing\bin\Debug\GestionPressing.pdb
+C:\Users\lenovo ideapad 100\Documents\Visual Studio 2015\Projects\essais\GestionPressing\GestionPressing\obj\Debug\GestionPressing.csprojResolveAssemblyReference.cache
+C:\Users\lenovo ideapad 100\Documents\Visual Studio 2015\Projects\essais\GestionPressing\GestionPressing\obj\Debug\GestionPressing.formulaireclientele.resources
+C:\Users\lenovo ideapad 100\Documents\Visual Studio 2015\Projects\essais\GestionPressing\GestionPressing\obj\Debug\GestionPressing.Properties.Resources.resources
+C:\Users\lenovo ideapad 100\Documents\Visual Studio 2015\Projects\essais\GestionPressing\GestionPressing\obj\Debug\GestionPressing.csproj.GenerateResource.Cache
+C:\Users\lenovo ideapad 100\Documents\Visual Studio 2015\Projects\essais\GestionPressing\GestionPressing\obj\Debug\GestionPressing.exe
+C:\Users\lenovo ideapad 100\Documents\Visual Studio 2015\Projects\essais\GestionPressing\GestionPressing\obj\Debug\GestionPressing.pdb
+C:\Users\lenovo ideapad 100\Documents\Visual Studio 2015\Projects\essais\GestionPressing\GestionPressing\obj\Debug\GestionPressing.ajouterclient.resources
+C:\Users\lenovo ideapad 100\Documents\Visual Studio 2015\Projects\essais\GestionPressing\GestionPressing\obj\Debug\GestionPressing.modifierclient.resources
+C:\Users\lenovo ideapad 100\Documents\Visual Studio 2015\Projects\essais\GestionPressing\GestionPressing\obj\Debug\GestionPressing.supprimerclient.resources
+C:\Users\lenovo ideapad 100\Documents\Visual Studio 2015\Projects\essais\GestionPressing\GestionPressing\obj\Debug\GestionPressing.formulairevetement.resources
+C:\Users\lenovo ideapad 100\Documents\Visual Studio 2015\Projects\essais\GestionPressing\GestionPressing\obj\Debug\GestionPressing.Infofacture.resources
+C:\Users\lenovo ideapad 100\Documents\Visual Studio 2015\Projects\essais\GestionPressing\GestionPressing\obj\Debug\GestionPressing.formulairededomages.resources
+C:\Users\lenovo ideapad 100\Documents\Visual Studio 2015\Projects\essais\GestionPressing\GestionPressing\obj\Debug\GestionPressing.ajoutlaveur.resources
+C:\Users\lenovo ideapad 100\Documents\Visual Studio 2015\Projects\essais\GestionPressing\GestionPressing\obj\Debug\GestionPressing.formulaireblanchissement.resources
+C:\Users\lenovo ideapad 100\Documents\Visual Studio 2015\Projects\essais\GestionPressing\GestionPressing\obj\Debug\GestionPressing.formulairecompartiment.resources
+C:\Users\lenovo ideapad 100\Documents\Visual Studio 2015\Projects\essais\GestionPressing\GestionPressing\bin\Debug\MySql.Data.dll
+C:\Users\lenovo ideapad 100\Documents\Visual Studio 2015\Projects\essais\GestionPressing\GestionPressing\bin\Debug\MySql.Data.xml
+C:\Users\lenovo ideapad 100\Documents\Visual Studio 2015\Projects\essais\GestionPressing\GestionPressing\obj\Debug\GestionPressing.fichelavage.resources
+C:\Users\lenovo ideapad 100\Documents\Visual Studio 2015\Projects\essais\GestionPressing\GestionPressing\obj\Debug\GestionPressing.formulairecomptable.resources
+C:\Users\lenovo ideapad 100\Documents\Visual Studio 2015\Projects\essais\GestionPressing\GestionPressing\obj\Debug\GestionPressing.formulaireincidents.resources
+C:\Users\lenovo ideapad 100\Documents\Visual Studio 2015\Projects\essais\GestionPressing\GestionPressing\obj\Debug\GestionPressing.selectionnerclient.resources
+C:\Users\lenovo ideapad 100\Documents\Visual Studio 2015\Projects\essais\GestionPressing\GestionPressing\obj\Debug\GestionPressing.Form1.resources
+C:\Users\lenovo ideapad 100\Documents\Visual Studio 2015\Projects\essais\GestionPressing\GestionPressing\obj\Debug\GestionPressing.Form2.resources
+F:\clef sauvegarde\GestionPressing\GestionPressing\bin\Debug\GestionPressing.exe.config
+F:\clef sauvegarde\GestionPressing\GestionPressing\obj\Debug\GestionPressing.exe
+F:\clef sauvegarde\GestionPressing\GestionPressing\obj\Debug\GestionPressing.pdb
+F:\clef sauvegarde\GestionPressing\GestionPressing\bin\Debug\GestionPressing.exe
+F:\clef sauvegarde\GestionPressing\GestionPressing\bin\Debug\GestionPressing.pdb
+F:\clef sauvegarde\GestionPressing\GestionPressing\bin\Debug\MySql.Data.xml
+F:\clef sauvegarde\GestionPressing\GestionPressing\obj\Debug\GestionPressing.csprojResolveAssemblyReference.cache
+F:\clef sauvegarde\GestionPressing\GestionPressing\obj\Debug\GestionPressing.ajouterclient.resources
+F:\clef sauvegarde\GestionPressing\GestionPressing\obj\Debug\GestionPressing.ajoutlaveur.resources
+F:\clef sauvegarde\GestionPressing\GestionPressing\obj\Debug\GestionPressing.fichelavage.resources
+F:\clef sauvegarde\GestionPressing\GestionPressing\obj\Debug\GestionPressing.Form1.resources
+F:\clef sauvegarde\GestionPressing\GestionPressing\obj\Debug\GestionPressing.Form2.resources
+F:\clef sauvegarde\GestionPressing\GestionPressing\obj\Debug\GestionPressing.formulaireblanchissement.resources
+F:\clef sauvegarde\GestionPressing\GestionPressing\obj\Debug\GestionPressing.formulairecompartiment.resources
+F:\clef sauvegarde\GestionPressing\GestionPressing\obj\Debug\GestionPressing.formulairecomptable.resources
+F:\clef sauvegarde\GestionPressing\GestionPressing\obj\Debug\GestionPressing.formulairededomages.resources
+F:\clef sauvegarde\GestionPressing\GestionPressing\obj\Debug\GestionPressing.formulaireincidents.resources
+F:\clef sauvegarde\GestionPressing\GestionPressing\obj\Debug\GestionPressing.formulairevetement.resources
+F:\clef sauvegarde\GestionPressing\GestionPressing\obj\Debug\GestionPressing.formulaireclientele.resources
+F:\clef sauvegarde\GestionPressing\GestionPressing\obj\Debug\GestionPressing.Infofacture.resources
+F:\clef sauvegarde\GestionPressing\GestionPressing\obj\Debug\GestionPressing.modifierclient.resources
+F:\clef sauvegarde\GestionPressing\GestionPressing\obj\Debug\GestionPressing.Properties.Resources.resources
+F:\clef sauvegarde\GestionPressing\GestionPressing\obj\Debug\GestionPressing.selectionnerclient.resources
+F:\clef sauvegarde\GestionPressing\GestionPressing\obj\Debug\GestionPressing.supprimerclient.resources
+F:\clef sauvegarde\GestionPressing\GestionPressing\obj\Debug\GestionPressing.csproj.GenerateResource.Cache
